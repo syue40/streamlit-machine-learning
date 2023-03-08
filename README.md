@@ -4,6 +4,7 @@ I developed this application as a demo project for my predictive analytics class
 This application will alow you to see predictions scores made with the same model (VGG16) copied from 2 different libraries (Kera, PyTorch). Additionally, heat maps are generated which show where each model is <i>looking</i> to make its predictions.
 
 <img src="application_picture.PNG"></img>
+
 <i>A screenshot of the application in action</i>
 
 ### Quickstart Guide
