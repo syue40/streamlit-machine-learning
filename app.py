@@ -181,7 +181,7 @@ def process_image(url, pytorch_model):
 
 def main():
     st.set_page_config(
-        page_title="Assignment 3",
+        page_title="Streamlit Image Classifier",
         layout="centered")
     st.markdown(
         "<font size='8'>Evaluating Image Recognition Models with Trulens",
